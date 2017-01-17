@@ -8,6 +8,7 @@
 	<li><a href="?pays=es">Espagne</a></li>
 	<li><a href="?pays=en">Angleterre</a></li>
 	<li><a href="?pays=it">Italie</a></li>
+	<li><a href="?pays=it">Allemagne</a></li>
 </ul>
 
 </html>
